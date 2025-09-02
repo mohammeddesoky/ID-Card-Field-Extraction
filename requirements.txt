@@ -1,0 +1,6 @@
+streamlit
+ultralytics
+opencv-python
+pillow
+deskew
+numpy==1.26.4
