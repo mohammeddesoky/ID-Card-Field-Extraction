@@ -38,6 +38,11 @@ project/
 └── requirements.txt # Dependencies
 ```
 
+## 🌐 Live Demo
+
+You can try the project directly from this link:  
+👉 [ID Field Extractor Demo](https://your-streamlit-app-link.streamlit.app)
+
 ## 🚀 How to Run
 
 1. Clone the repository:
