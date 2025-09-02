@@ -41,7 +41,7 @@ project/
 ## 🌐 Live Demo
 
 You can try the project directly from this link:  
-👉 [ID Field Extractor Demo](https://your-streamlit-app-link.streamlit.app)
+👉 [ID Field Extractor Demo](https://id-card-field-extraction-7j5x7c6logpc5bjmqenf2u.streamlit.app/)
 
 ## 🚀 How to Run
 
