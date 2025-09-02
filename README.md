@@ -43,7 +43,7 @@ project/
 1. Clone the repository:
    ```bash
    git clone https://github.com/mohammeddesoky/ID-Card-Field-Extraction.git
-   cd id-field-extractor
+   cd ID-Card-Field-Extraction
    
 2. Install the required dependencies:
     ```bash
