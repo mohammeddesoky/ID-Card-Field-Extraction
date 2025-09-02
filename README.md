@@ -42,11 +42,13 @@ project/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/id-field-extractor.git
+   git clone https://github.com/mohammeddesoky/ID-Card-Field-Extraction.git
    cd id-field-extractor
    
 2. Install the required dependencies:
+    ```bash
     pip install -r requirements.txt
 
 3. Run the Streamlit app:
+    ```bash
     streamlit run app.py
