@@ -1,6 +1,7 @@
 streamlit
 ultralytics
 opencv-python
+opencv-python-headless
 pillow
 deskew
 numpy==1.26.4
